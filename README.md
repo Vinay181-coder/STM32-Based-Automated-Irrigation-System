@@ -10,6 +10,7 @@ Automated Irrigation System built on STM32F103C8T6 using Bare-Metal C. Monitors 
 <img width="975" height="582" alt="image" src="https://github.com/user-attachments/assets/777af48f-37d7-4bb0-a56b-3c0ec4f518ae" />
 
 ❖ LEARNINGS FORM THE PROJECT 
+
 •	Understood how STM32 peripherals work using Bare-Metal C and register-level programming. 
 •	Learned configuring GPIO pins as input, output, analog, and pull-up manually. 
 •	Gained experience enabling peripheral clocks using the RCC registers. 
