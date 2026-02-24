@@ -12,12 +12,21 @@ Automated Irrigation System built on STM32F103C8T6 using Bare-Metal C. Monitors 
 ❖ LEARNINGS FORM THE PROJECT 
 
 •	Understood how STM32 peripherals work using Bare-Metal C and register-level programming. 
+
 •	Learned configuring GPIO pins as input, output, analog, and pull-up manually. 
+
 •	Gained experience enabling peripheral clocks using the RCC registers. 
-•	Learned ADC configuration, channel selection, sampling time, and reading sensor data. 
+
+•	Learned ADC configuration, channel selection, sampling time, and reading sensor data.
+
 •	Learned to configure external interrupts (EXTI) and map pins using AFIO registers. 
+
 •	Gained experience writing and handling interrupt service routines (ISR). 
+
 •	Understood interfacing of soil moisture sensor (ADC) and rain sensor (digital interrupt). 
+
 •	Learned how to control a relay/water pump using GPIO output logic. 
+
 •	Learned combining polling + interrupt-driven control for reliable automation. 
+
 •	Improved debugging and problem-solving using step-by-step hardware logic analysis. 
